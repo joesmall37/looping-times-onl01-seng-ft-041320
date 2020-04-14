@@ -1,5 +1,6 @@
 def using_times
-	#your code here
+	Loop 
+	if
 end
 
 
